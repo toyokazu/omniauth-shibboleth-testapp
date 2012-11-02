@@ -1,0 +1,3 @@
+== OmniAuth Shibboleth Strategy Testing Application
+
+This is a template application for testing omniauth-shibboleth. The detail procedure is written at root page.
